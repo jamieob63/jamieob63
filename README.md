@@ -1,4 +1,4 @@
-**Jamieob63 Profile**
+# Jamieob63 Profile
 - Data Scientist / Machine Learning Scientist
 - I’m interested in coding, sports & sports betting using ML algorithms
 - I’m currently working on a premier league betting model
